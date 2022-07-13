@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(192, 3, 66);
+}
+#uname{
+    color: blue;
+}
+div{
+    color: beige;
+}
+.img{
+height: 500px;
+width: 500px;
+}
